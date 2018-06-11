@@ -2446,47 +2446,6 @@ body {
 .cid-qUDBC9zubo {
   background: linear-gradient(45deg, #6576aa, #55b4d4);
 }
-.cid-qUDBCcgHIn {
-  background-image: url("../../../assets/images/03.jpg");
-}
-.cid-qUDBCcgHIn .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qUDBCcgHIn .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qUDBCcgHIn .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qUDBCcgHIn .mbr-text {
-  color: #ffffff;
-}
-.cid-qUDBCcgHIn .card {
-  padding-bottom: 1.5rem;
-}
-.cid-qUDBCgmMyT {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #f4a997, #a09fc0);
-}
-@media (min-width: 992px) {
-  .cid-qUDBCgmMyT .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qUDBCgmMyT .mbr-figure {
-    padding-top: 3rem;
-  }
-}
 .cid-qUDBCidnht .modal-body .close {
   background: #1b1b1b;
 }
@@ -3118,9 +3077,6 @@ body {
 }
 .cid-qUDBEcQIuM .btn {
   margin: 0 0 .5rem 0;
-}
-.cid-qUDBEeSzOu {
-  background: linear-gradient(45deg, #6576aa, #55b4d4);
 }
 .cid-qUDBEgGpBT {
   background-image: url("../../../assets/images/03.jpg");
